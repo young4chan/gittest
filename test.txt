@@ -1,3 +1,7 @@
 test
 123
 add from master
+for rebase
+another rebase
+from bugfix
+test
